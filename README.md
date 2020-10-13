@@ -1,2 +1,2 @@
 # Flappy-Bird
-Flappy Bird JS
+Flappy Bird Js em web
